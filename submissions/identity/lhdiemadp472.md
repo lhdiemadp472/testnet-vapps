@@ -6,7 +6,7 @@ discord_id: "913793400027877477"
 timestamp: "2025-08-28"
 
 ## Developer
-Name: To Be Filled
+Name: La Hong Diem
 GitHub: @lhdiemadp472
 Discord: lhdiemadp472
 Experience: Web3 developer with interest in identity applications and zk integration.
